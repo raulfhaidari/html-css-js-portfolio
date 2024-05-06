@@ -23,6 +23,9 @@
     #profile, .section-container {
         display: block;
     }
+
+    
+
     .arrow {
         display: none;
     }
@@ -91,4 +94,5 @@
     .text-container {
         text-align: justify;
     }
+    
 } 
